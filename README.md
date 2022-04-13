@@ -8,8 +8,13 @@ le projet consiste à faire une maison connectée avec le plus possible de chose
 # Materiel utilisé
 on va d'abord faire une maquette de la maison a toit ouvert pour voir ce qui se passe à l'interieur et voir les différents mécanismes.
 ils nous faudra : 
+
 carte arduino pour la lumière et la température
+
 détecteur de présence 
+
 portail en 3D
+
 un volet de fenêtre en 3D
+
 2 mini moteur qui permettrons l'ouverture et la fermeture du portail et du volet de fenêtre 
